@@ -1,0 +1,800 @@
+{
+  "data": {
+    "vehicleList": [
+      {
+        "id": "5f043d91bc262f1627fc032f",
+        "naming": {
+          "make": "Audi",
+          "model": "e-tron",
+          "version": "55 quattro",
+          "edition": null,
+          "chargetrip_version": "55 quattro (2019 - 2020)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 11,
+            "max_electric_power": 11,
+            "time": 555,
+            "speed": 39
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 146,
+            "max_electric_power": 155,
+            "time": 26,
+            "speed": 590
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 86.5,
+          "full_kwh": 95
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 442,
+            "worst": 381
+          }
+        },
+        "media": {
+          "image": {
+            "id": "637cfd94fff76be0b355b82c",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/637cfd94fff76be0b355b82c.png",
+            "height": 400,
+            "width": 697,
+            "thumbnail_url": "https://cars.chargetrip.io/637cfd94fff76be0b355b82c-eb92fb5e6c7433d5e31dbe682f7ae922e78a232c.png",
+            "thumbnail_height": 150,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/5f1aa826657beb21bf6388c0.png",
+            "height": 432,
+            "width": 768,
+            "thumbnail_url": "https://cars.chargetrip.io/5f1aa826657beb21bf6388c0-8dcb18ef1be43017f302d60294cea469e26e66bc.png",
+            "thumbnail_height": 24,
+            "thumbnail_width": 56
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      },
+      {
+        "id": "5d161beec9eef4c250d9d225",
+        "naming": {
+          "make": "BMW",
+          "model": "i3s",
+          "version": "94 Ah",
+          "edition": null,
+          "chargetrip_version": "94 Ah (2017 - 2018)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 7.4,
+            "max_electric_power": 7.4,
+            "time": 270,
+            "speed": 36
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 46,
+            "max_electric_power": 49,
+            "time": 26,
+            "speed": 250
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 27.2,
+          "full_kwh": 33.2
+        },
+        "body": {
+          "seats": 4
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 191,
+            "worst": 163
+          }
+        },
+        "media": {
+          "image": {
+            "id": "625036e07d209b7fe2a5b792",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/625036e07d209b7fe2a5b792.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/625036e07d209b7fe2a5b792-0c1482b09160e397298ea4e157f923c979130270.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/bmw-1659686663.png",
+            "height": 1080,
+            "width": 1919,
+            "thumbnail_url": "https://cars.chargetrip.io/bmw-1659686663-b41cb1210b29ce8d509695e1651e00f3f3fff99a.png",
+            "thumbnail_height": 48,
+            "thumbnail_width": 112
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      },
+      {
+        "id": "605298d0ecbb3a98c4c8e1c1",
+        "naming": {
+          "make": "BMW",
+          "model": "iX",
+          "version": "xDrive50",
+          "edition": null,
+          "chargetrip_version": "xDrive50"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 11,
+            "max_electric_power": 11,
+            "time": 675,
+            "speed": 45
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 148,
+            "max_electric_power": 195,
+            "time": 31,
+            "speed": 680
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 105.2,
+          "full_kwh": 111.5
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 510,
+            "worst": 417
+          }
+        },
+        "media": {
+          "image": {
+            "id": "608ff534dda1ce6b97b57260",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/608ff534dda1ce6b97b57260.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/608ff534dda1ce6b97b57260-31ba5cb033af2d92e9fed33be04070d3c94b3f31.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/bmw-1659686663.png",
+            "height": 1080,
+            "width": 1919,
+            "thumbnail_url": "https://cars.chargetrip.io/bmw-1659686663-b41cb1210b29ce8d509695e1651e00f3f3fff99a.png",
+            "thumbnail_height": 48,
+            "thumbnail_width": 112
+          },
+          "video": {
+            "id": "61b9303dd71ee025a459474c",
+            "url": "https://www.youtube.com/watch?v=7tfRSUwja_A"
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      },
+      {
+        "id": "600e964c5fc2ee9983b1f18d",
+        "naming": {
+          "make": "Citroen",
+          "model": "e-SpaceTourer",
+          "version": "XL 75 kWh",
+          "edition": null,
+          "chargetrip_version": "XL 75 kWh (early 2021)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 7.4,
+            "max_electric_power": 7.4,
+            "time": 660,
+            "speed": 24
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 79,
+            "max_electric_power": 100,
+            "time": 38,
+            "speed": 280
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 68,
+          "full_kwh": 75
+        },
+        "body": {
+          "seats": 9
+        },
+        "availability": {
+          "status": "available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 348,
+            "worst": 301
+          }
+        },
+        "media": {
+          "image": {
+            "id": "6012a1bcf9c50f4aca28b283",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/6012a1bcf9c50f4aca28b283.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/6012a1bcf9c50f4aca28b283-7bd09b08ff87c4f68c733857e739ed033d8a4c83.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/5f1aa830657beb6f386388e6.png",
+            "height": 432,
+            "width": 768,
+            "thumbnail_url": "https://cars.chargetrip.io/5f1aa830657beb6f386388e6-032e76cd4402e04bee50dbe00504701480f20985.png",
+            "thumbnail_height": 24,
+            "thumbnail_width": 56
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      },
+      {
+        "id": "600e964a5fc2ee68bcb1f183",
+        "naming": {
+          "make": "Kia",
+          "model": "e-Niro",
+          "version": "64 kWh",
+          "edition": null,
+          "chargetrip_version": "64 kWh (2021 - 2022)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 7.2,
+            "max_electric_power": 7.2,
+            "time": 630,
+            "speed": 35
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 64,
+            "max_electric_power": 77,
+            "time": 44,
+            "speed": 350
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 64,
+          "full_kwh": 67.5
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 409,
+            "worst": 350
+          }
+        },
+        "media": {
+          "image": {
+            "id": "6012a20df9c50f63d328b28a",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/6012a20df9c50f63d328b28a.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/6012a20df9c50f63d328b28a-d9a03dddc473b43c8e54e9ff967185d26a95444c.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/kia-1663063315.png",
+            "height": 2160,
+            "width": 3840,
+            "thumbnail_url": "https://cars.chargetrip.io/kia-1663063315-58f26497f1905d5acd5c4e2338ce301a8b791024.png",
+            "thumbnail_height": 48,
+            "thumbnail_width": 112
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      },
+      {
+        "id": "5d161befc9eef48216d9d228",
+        "naming": {
+          "make": "Kia",
+          "model": "Soul EV",
+          "version": null,
+          "edition": null,
+          "chargetrip_version": "30 kWh (2017 - 2019)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T1",
+            "power": 6.6,
+            "max_electric_power": 6.6,
+            "time": 330,
+            "speed": 31
+          },
+          {
+            "standard": "CHADEMO",
+            "power": 40,
+            "max_electric_power": 50,
+            "time": 33,
+            "speed": 210
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 30,
+          "full_kwh": 33
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 201,
+            "worst": 172
+          }
+        },
+        "media": {
+          "image": {
+            "id": "63455172f740860651292c69",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/63455172f740860651292c69.png",
+            "height": 422,
+            "width": 660,
+            "thumbnail_url": "https://cars.chargetrip.io/63455172f740860651292c69-be8e83ec88c2b0db333dda798c1f0c26f42a4721.png",
+            "thumbnail_height": 168,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/kia-1663063315.png",
+            "height": 2160,
+            "width": 3840,
+            "thumbnail_url": "https://cars.chargetrip.io/kia-1663063315-58f26497f1905d5acd5c4e2338ce301a8b791024.png",
+            "thumbnail_height": 48,
+            "thumbnail_width": 112
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": []
+        }
+      },
+      {
+        "id": "5d161bdbc9eef45824d9d1ec",
+        "naming": {
+          "make": "Nissan",
+          "model": "Leaf",
+          "version": "30 kWh",
+          "edition": null,
+          "chargetrip_version": "30 kWh"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T1",
+            "power": 3.3,
+            "max_electric_power": 3.3,
+            "time": 600,
+            "speed": 17
+          },
+          {
+            "standard": "CHADEMO",
+            "power": 45,
+            "max_electric_power": 47,
+            "time": 28,
+            "speed": 250
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 28,
+          "full_kwh": 30
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 192,
+            "worst": 164
+          }
+        },
+        "media": {
+          "image": {
+            "id": "60829f4fdda1ce69cab57223",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/60829f4fdda1ce69cab57223.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/60829f4fdda1ce69cab57223-89e28963088e013b130dd7af26c5efcad65dd36f.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/5f1aa821657beb68906388b1.png",
+            "height": 432,
+            "width": 768,
+            "thumbnail_url": "https://cars.chargetrip.io/5f1aa821657beb68906388b1-bfdcaa41193d52e9ad9d84130e99ef38004331b6.png",
+            "thumbnail_height": 24,
+            "thumbnail_width": 56
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": []
+        }
+      },
+      {
+        "id": "5f043c7bbc262f1627fc02b9",
+        "naming": {
+          "make": "Nissan",
+          "model": "Leaf",
+          "version": "e+",
+          "edition": null,
+          "chargetrip_version": "e+ 62 kWh (2019 - 2022)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 6.6,
+            "max_electric_power": 6.6,
+            "time": 645,
+            "speed": 32
+          },
+          {
+            "standard": "CHADEMO",
+            "power": 44,
+            "max_electric_power": 46,
+            "time": 59,
+            "speed": 240
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 59,
+          "full_kwh": 62
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 385,
+            "worst": 329
+          }
+        },
+        "media": {
+          "image": {
+            "id": "5f731006efe675e0f8895f07",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/5f731006efe675e0f8895f07.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/5f731006efe675e0f8895f07-7de8f7733413cb4f01576a641ca7a0430a9a96a0.png",
+            "thumbnail_height": 72,
+            "thumbnail_width": 131
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/5f1aa821657beb68906388b1.png",
+            "height": 432,
+            "width": 768,
+            "thumbnail_url": "https://cars.chargetrip.io/5f1aa821657beb68906388b1-bfdcaa41193d52e9ad9d84130e99ef38004331b6.png",
+            "thumbnail_height": 24,
+            "thumbnail_width": 56
+          },
+          "video": {
+            "id": null,
+            "url": null
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      },
+      {
+        "id": "5f043cbabc262f1627fc02d1",
+        "naming": {
+          "make": "Polestar",
+          "model": "2",
+          "version": null,
+          "edition": null,
+          "chargetrip_version": "78 kWh (2020 - 2021)"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 11,
+            "max_electric_power": 11,
+            "time": 495,
+            "speed": 47
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 108,
+            "max_electric_power": 149,
+            "time": 31,
+            "speed": 520
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 75,
+          "full_kwh": 78
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "no_longer_available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 473,
+            "worst": 405
+          }
+        },
+        "media": {
+          "image": {
+            "id": "63c901df65a0a6381db34d5b",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/63c901df65a0a6381db34d5b.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/63c901df65a0a6381db34d5b-ddc191882c2aa52be9303ec173ed9aeec4ed49f6.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/5f1aa840657beb27d563891d.png",
+            "height": 432,
+            "width": 768,
+            "thumbnail_url": "https://cars.chargetrip.io/5f1aa840657beb27d563891d-a2f6c6720135175a1e847d4faeda10247a60a87c.png",
+            "thumbnail_height": 24,
+            "thumbnail_width": 56
+          },
+          "video": {
+            "id": "600e96385fc2ee2440b1f10e",
+            "url": "https://www.youtube.com/watch?v=_cwD50F_RWw"
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": []
+        }
+      },
+      {
+        "id": "5f043dcabc262f1627fc0345",
+        "naming": {
+          "make": "Skoda",
+          "model": "Enyaq iV",
+          "version": "80",
+          "edition": null,
+          "chargetrip_version": "80"
+        },
+        "drivetrain": {
+          "type": "BEV"
+        },
+        "connectors": [
+          {
+            "standard": "IEC_62196_T2",
+            "power": 11,
+            "max_electric_power": 11,
+            "time": 495,
+            "speed": 51
+          },
+          {
+            "standard": "IEC_62196_T2_COMBO",
+            "power": 103,
+            "max_electric_power": 135,
+            "time": 33,
+            "speed": 530
+          }
+        ],
+        "adapters": [],
+        "battery": {
+          "usable_kwh": 77,
+          "full_kwh": 82
+        },
+        "body": {
+          "seats": 5
+        },
+        "availability": {
+          "status": "available"
+        },
+        "range": {
+          "chargetrip_range": {
+            "best": 457,
+            "worst": 392
+          }
+        },
+        "media": {
+          "image": {
+            "id": "63d9361139c70a6b9ede1ac2",
+            "type": "image",
+            "url": "https://cars.chargetrip.io/63d9361139c70a6b9ede1ac2.png",
+            "height": 864,
+            "width": 1536,
+            "thumbnail_url": "https://cars.chargetrip.io/63d9361139c70a6b9ede1ac2-054c216e44d18b67bd7f23324e1530991c5f1523.png",
+            "thumbnail_height": 144,
+            "thumbnail_width": 262
+          },
+          "brand": {
+            "id": null,
+            "type": "brand",
+            "url": "https://cars.chargetrip.io/5f1aa841657beb2fbe638921.png",
+            "height": 432,
+            "width": 768,
+            "thumbnail_url": "https://cars.chargetrip.io/5f1aa841657beb2fbe638921-07e425eff1068bb0fc40d8c2815d3480533b4fcd.png",
+            "thumbnail_height": 24,
+            "thumbnail_width": 56
+          },
+          "video": {
+            "id": "60ee29e2a6f38419b308ebf3",
+            "url": "https://www.youtube.com/watch?v=azOF_iX6tv4"
+          }
+        },
+        "routing": {
+          "fast_charging_support": true
+        },
+        "connect": {
+          "providers": [
+            "Enode"
+          ]
+        }
+      }
+    ]
+  }
+}
