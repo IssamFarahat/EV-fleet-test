@@ -1,0 +1,6 @@
+curl -X POST \
+-H "Content-Type: application/json" \
+-H "x-client-id: 63e400afc972c01c9c68146e" \
+-H "x-app-id: 63e400afc972c01c9c681470" \
+-d 'query { }' \
+https://api.chargetrip.io/graphql
