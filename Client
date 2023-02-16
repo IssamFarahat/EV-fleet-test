@@ -2,3 +2,10 @@ curl https://oauth.sandbox.enode.io/oauth2/token \
 -X POST \
 -u {aee099a3-0914-4e30-b85b-49571070021e}:{1b5d626aa60094320cea02b9ab9babc120d030b2} \
 -d "grant_type=client_credentials"
+
+{
+	"access_token": "{aee099a3-0914-4e30-b85b-49571070021e}",
+	"expires_in": 3599,
+	"scope": "",
+	"token_type": "bearer"
+}
